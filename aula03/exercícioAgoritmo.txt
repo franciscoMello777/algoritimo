@@ -1,0 +1,17 @@
+Trocar uma lâmpada. 
+
+Passo 1 Ir comprar uma lâmpada,
+Passo 2 Se for preciso pegar uma escada,
+Passo 3 Retirar a lâmpada queimada,
+Passo 4 Retirar a lâmpada nova da embalagem,
+Passo 5 Pegar a lâmpada e colocar no suporte da lâmpada,
+Passo 6 Verificar se está funcionando.
+
+Ir para o Senac.
+
+Passo 1 Chegar da escola,
+Passo 2 Almoçar,
+Passo 3 Escovar os dentes,
+Passo 4 Pegar o ônibus,
+Passo 5 Descer na parada,
+Passo 6 Caminhar ate o Senac.
